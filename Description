@@ -9,3 +9,4 @@ This makes the threshold pin of IC high and its output goes high.
 The high output makes buzzer active and music will be heard. 
 The music stops only when the letter is removed from the box.
 Keep LED and LDR at the opposite sides of the box.
+![ELE MAIL-BOX1](https://user-images.githubusercontent.com/66016425/123439831-c4c3d300-d5ef-11eb-87b9-791f86df970e.gif)
